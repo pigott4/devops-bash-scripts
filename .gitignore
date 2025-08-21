@@ -1,0 +1,16 @@
+# Ignore SSH keys and credentials
+*.pem
+*.key
+*.ppk
+*.pub
+id_rsa*
+id_ed25519*
+.ssh/
+
+# Ignore macOS system files
+.DS_Store
+
+# Node / Python / general
+node_modules/
+.env
+__pycache__/
