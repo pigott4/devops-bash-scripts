@@ -4,3 +4,11 @@ This mini-portofolio is a collection of very handy Bash scripts intended to do a
 ## **1. filter_logs.sh**
 This script is specifically designed to 
 
+## **2. bulk_rename.sh**
+
+## **3. network_check.sh**
+
+## **4. sys_info.sh**
+
+## **5. check_disk_usage.sh** 
+
